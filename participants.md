@@ -4,3 +4,4 @@
 |------|------|--------------------------|
 | Maail| Instructor | Example entry |
 | Suresh Sakadivan| Intern | trying to learn slowly |
+| Ken| Doll | eating |
